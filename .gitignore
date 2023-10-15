@@ -1,0 +1,9 @@
+# light version: only ignore the essential parts
+# ignored directories
+.idea/
+*local/
+save/
+cache/
+
+# ignored files
+*local*.*

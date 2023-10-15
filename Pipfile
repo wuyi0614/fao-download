@@ -1,0 +1,16 @@
+[[source]]
+url = "https://mirrors.ustc.edu.cn/pypi/web/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+tqdm = "*"
+
+requests = "*"
+beautifulsoup4 = "*"
+
+pdfkit = ">=1.0.0"
+[dev-packages]
+
+[requires]
+python_version = "3.9"
